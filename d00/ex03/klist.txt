@@ -1,0 +1,8 @@
+Credentials cache: API:31038
+        Principal: rlossy@LE-101.FR
+
+  Issued                Expires               Principal
+Oct  2 10:57:27 2017  Oct  2 20:57:27 2017  krbtgt/LE-101.FR@LE-101.FR
+Oct  2 10:57:28 2017  Oct  2 20:57:27 2017  ldap/ldap-master.le-101.fr@LE-101.FR
+Oct  2 10:57:28 2017  Oct  2 20:57:27 2017  HTTP/test-iscsi.le-101.fr@LE-101.FR
+Oct  2 12:18:29 2017  Oct  2 20:57:27 2017  host/vogsphere.le-101.fr@LE-101.FR
